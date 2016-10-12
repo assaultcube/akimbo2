@@ -1,0 +1,1 @@
+*fire folders are from dday:normandy (mod based on quakeII)

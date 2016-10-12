@@ -1,0 +1,55 @@
+3D model and texture by mpx. 2013
+
+Some credits to: http://sanzo-supreme.deviantart.com/art/Screwed-up-paper-texture-128059372
+
+English
+===================================================================================================
+These files have been licensed under a the
+"Creative Commons Deed / Attribution Non-commercial Share-Alike ( at-nc-sa )" 
+===================================================================================================
+
+You are free:
+
+    * to copy, distribute, display
+ 
+
+Under the following conditions:
+
+"by" 
+     - Attribution. You must give the original author credit.
+
+"nc"	
+     - Non-Commercial. You may not use this work for commercial purposes.
+
+
+     - You can share but You CAN NOT modify any part of this package.
+
+
+Español
+===================================================================================================
+Estos archivos han sido licenciados bajo
+"Creative Commons Deed / Attribution Non-commercial Share-Alike ( at-nc-sa )" 
+===================================================================================================
+
+
+
+Eres libre de:
+
+    * copiar, distribuir, mostrar
+
+
+Bajo las siguientes condiciones:
+
+"por"
+	- Atribución. Debes dar crédito al autor original.
+
+"nc"
+	- No comerciar. No estas permitido usar este trabajo para propósitos comerciales.
+	
+
+	- Puedes compartir pero NO PUEDES modificar ninguna de las partes de este paquete.
+	
+
+
+Your fair use and other rights are in no way affected by the above.
+This is a human-readable summary of the Legal Code (the full licence).

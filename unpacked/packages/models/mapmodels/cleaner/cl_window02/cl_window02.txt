@@ -1,0 +1,34 @@
+
+All materials in these subfolders have been specially designed by Cleaner for AssaultCube using MilkShape 3D and PaintShop Pro XII.
+
+* cl_window02.md3
+* cl_window02.jpg
+
+=====================================================================
+Cleaner contact/websites details:
+
+	* shamelessarts@gmail.com
+	* http://ac-akimbo.net
+	* http://forums.des-clan.net
+	* http://assault.cubers.net/forum/user-420.html
+
+For more maps, textures, 3D mapmodels and AssaultCube related mods visit http://ac-akimbo.net
+	
+=====================================================================All mapmodels are licensed under the Creative Commons.
+
+"Attribution-NonCommercial-ShareAlike 3.0" Unported" (AT-NC-SA) license.
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This means you are free to share, copy, distribute, transmit & to remix/adapt the work, under the following conditions:
+
+ * Attribution: You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+
+ * Noncommercial:	You may not use this work for commercial purposes.
+
+ * Share Alike: If you alter, transform, or build upon this work, you
+   may distribute the resulting work only under the same or similar    license to this one.
+
+To view a copy of the full licenses legal code, visit:
+http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+

@@ -1,0 +1,1 @@
+basic light model (C) Foxy-Grim (AKA D3M0NW0LF). Texture (C) to ik2k.
