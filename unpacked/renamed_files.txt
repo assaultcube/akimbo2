@@ -1,0 +1,172 @@
+Maps:
+
+ac_BoxHead.cfg			ac_boxhead.cfg			
+ac_BoxHead.cgz			ac_boxhead.cgz			
+ac_Chillout.cfg			ac_chillout.cfg
+ac_Chillout.cgz			ac_chillout.cgz
+ac_Grapo.cfg			ac_grapo.cfg
+ac_Grapo.cgz			ac_grapo.cgz
+AC_Rebel.cfg			ac_rebel.cfg
+AC_Rebel.cgz			ac_rebel.cgz
+ac_REDzone.cfg			ac_redzone.cfg
+ac_REDzone.cgz			ac_redzone.cgz
+ac_Streetes.cfg			ac_streetes.cfg
+ac_Streetes.cgz			ac_streetes.cgz
+"Assassin'sCity.cfg"		assassinscity.cfg
+"Assassin'sCity.cgz"		assassinscity.cgz
+Asylum.cfg			asylum.cfg
+Asylum.cgz			asylum.cgz
+AutoZone.cfg			autozone.cfg
+AutoZone.cgz			autozone.cgz
+Battlefield.cfg			battlefield.cfg
+Battlefield.cgz			battlefield.cgz
+BattleOfTheOpera.cfg		battleoftheopera.cfg
+BattleOfTheOpera.cgz		battleoftheopera.cgz
+BlockPartyMario.cfg		blockpartymario.cfg
+BlockPartyMario.cgz		blockpartymario.cgz
+CastleInvasion.cfg		castleinvasion.cfg
+CastleInvasion.cgz		castleinvasion.cgz
+CastleTakeover.cfg		castletakeover.cfg
+CastleTakeover.cgz		castletakeover.cgz
+DesertZombie_Defense_IV.cfg	desertzombie_defense_iv.cfg
+DesertZombie_Defense_IV.cgz	desertzombie_defense_iv.cgz
+DTF-TwinTowers.cfg		dtf-twintowers.cfg
+DTF-TwinTowers.cgz		dtf-twintowers.cgz
+eQ_deadend.cfg			eq_deadend.cfg
+eQ_deadend.cgz			eq_deadend.cgz
+GhostHouse.cfg			ghosthouse.cfg
+GhostHouse.cgz			ghosthouse.cgz
+Godzilla.cfg			godzilla.cfg
+Godzilla.cgz			godzilla.cgz
+GunRange.cfg			gunrange.cfg
+GunRange.cgz			gunrange.cgz
+Hijacked_v7.cfg			hijacked_v7.cfg
+Hijacked_v7.cgz			hijacked_v7.cgz
+KingOfTheHill.cfg		kingofthehill.cfg
+KingOfTheHill.cgz		kingofthehill.cgz
+ML-Abandoned.cfg		ml-abandoned.cfg
+ML-Abandoned.cgz		ml-abandoned.cgz
+ML_Desert_Base.cfg		ml_desert_base.cfg
+ML_Desert_Base.cgz		ml_desert_base.cgz
+ML-Divide.cfg			ml-divide.cfg
+ML-Divide.cgz			ml-divide.cgz
+"Myke House.cfg"		myke_house.cfg
+"Myke House.cgz"		myke_house.cgz
+NightClub.cfg			nightclub.cfg
+NightClub.cgz			nightclub.cgz
+Paintball5.cfg			paintball5.cfg
+Paintball5.cgz			paintball5.cgz
+Park_III.cfg			park_iii.cfg
+Park_III.cgz			park_iii.cgz
+RoadRage.cfg			roadrage.cfg
+RoadRage.cgz			roadrage.cgz
+Secret_lab_V1.0.cfg		secret_lab_v1.0.cfg
+Secret_lab_V1.0.cgz		secret_lab_v1.0.cgz
+SkyScraperCity3.cfg		skyscrapercity3.cfg
+SkyScraperCity3.cgz		skyscrapercity3.cgz
+SkyScraperRoad.cfg		skyscraperroad.cfg
+SkyScraperRoad.cgz		skyscraperroad.cgz
+Small_Port.cfg			small_port.cfg
+Small_Port.cgz			small_port.cgz
+TacticalCombat.cfg		tacticalcombat.cfg
+TacticalCombat.cgz		tacticalcombat.cgz
+TheSwamps.cfg			theswamps.cfg
+TheSwamps.cgz			theswamps.cgz
+TheTempleOfDeath.cfg		thetempleofdeath.cfg
+TheTempleOfDeath.cgz		thetempleofdeath.cgz
+Urban_Block.cfg			urban_block.cfg
+Urban_Block.cgz			urban_block.cgz
+Winter_Grim.cfg			winter_grim.cfg
+Winter_Grim.cgz			winter_grim.cgz
+WITHSHOWER.cfg			withshower.cfg
+WITHSHOWER.cgz			withshower.cgz
+ywc_Toughrock.cfg		ywc_toughrock.cfg
+ywc_Toughrock.cgz		ywc_toughrock.cgz
+Zombie_BaseDefense.cfg		zombie_basedefense.cfg
+Zombie_BaseDefense.cgz		zombie_basedefense.cgz
+
+
+Skymaps:
+
+"aftas sky/orbe.zip"		aftassky/orbe.zip
+"Mighty Pete/bloody-marvelous512.zip"	MightyPete/bloody-marvelous512.zip
+
+
+Map sounds:
+
+packages/audio/sounds/ambience/troglodytes.ogg		packages/audio/ambience/troglodytes.ogg
+
+
+Map models:
+
+ayers_skull.zip			ayers/skull.zip
+barique.zip			boeufmironton/barique.zip
+barrel6.zip			dcp/barrel6.zip
+bench2.zip			zz_unsorted/bench2.zip
+bench.zip			zz_unsorted/bench.zip
+boxtrailer.zip			sitters/boxtrailer.zip
+bridge_incas2.zip		boeufmironton/bridge_incas2.zip
+bridge_incas.zip		boeufmironton/bridge_incas.zip
+campbed.zip			zz_unsorted/campbed.zip
+candle.zip			dementium4ever/candle.zip
+car.zip				sitters/car2.zip
+chain.zip			zz_unsorted/chain.zip
+coffin.zip			zz_unsorted/coffin.zip
+container.zip			cleaner/container.zip
+crate.zip			psionic/crate.zip
+curvechain.zip			zz_unsorted/curvechain.zip
+dcp_candle.zip			dcp/candle.zip
+digicode.zip			cleaner/digicode.zip
+elecbox.zip			acord/elecbox.zip
+europalette2.zip		zz_unsorted/europalette2.zip
+goal.zip			sniper/goal.zip
+goblet.zip			zz_unsorted/goblet.zip
+grass.zip			dcp/grass.zip
+gravure01.zip			boeufmironton/gravure01.zip
+gravure02.zip			boeufmironton/gravure02.zip
+gutter_h.zip			cleaner/gutter_h.zip
+gutter_v.zip			cleaner/gutter_v.zip
+halfdoor.zip			zz_unsorted/halfdoor.zip
+helicopter.zip			dementium4ever/helicopter.zip
+heli.zip			sitters/heli.zip
+hotel_sign.zip			sr_persian/hotel_sign.zip
+jeep.zip			sitters/jeep.zip
+kt_kubalwagon.zip		kenbeyer/kt_kubalwagon.zip
+leafs.zip			zz_unsorted/leafs.zip
+money.zip			sunnyd/money.zip
+oldchair.zip			sr_persian/oldchair.zip
+old_table.zip			sr_persian/old_table.zip
+old_wagon.zip			sr_persian/old_wagon.zip
+paquet.zip			deathstar/paquet.zip
+piano.zip			zz_unsorted/piano.zip
+picture2.zip			zz_unsorted/picture2.zip
+plant1.zip			zz_unsorted/plant1.zip
+red_cross_jeep.zip		cleaner/red_cross_jeep.zip
+rope.zip			zz_unsorted/rope.zip
+skintrolpc.zip			zz_unsorted/skintrolpc.zip
+smplant.zip			zz_unsorted/smplant.zip
+soleil2.zip			boeufmironton/soleil2.zip
+soleil.zip			boeufmironton/soleil.zip
+stairs.zip			zz_unsorted/stairs.zip
+statue.zip			deathstar/statue.zip
+tankwall.zip			sitters/tankwall.zip
+ton.zip				zz_unsorted/ton.zip
+treppe.zip			zz_unsorted/treppe.zip
+vent.zip			dcp/vent.zip
+wagon.zip			sitters/wagon.zip
+warning_light.zip		geartrooper/warning_light.zip
+cleaner/docking ring.zip		cleaner/docking_ring.zip
+cleaner/floor hole.zip			cleaner/floor_hole.zip
+cleaner/saloon doors.zip		cleaner/saloon_doors.zip
+cleaner/western doors 2.zip		cleaner/western_doors_2.zip
+cleaner/western doors 3.zip		cleaner/western_doors_3.zip
+cleaner/western doors snoo.zip		cleaner/western_doors_snoo.zip
+cleaner/western signs/butts.zip		cleaner/western_signs/butts.zip
+cleaner/western signs/noguns.zip	cleaner/western_signs/noguns.zip
+cleaner/planks/plank(hor).zip		cleaner/planks/plank_hor.zip
+thekid/skateboard.zip		TheKid/skateboard.zip
+Raczo/fence1.zip		raczo/fence1.zip
+Raczo/fence-post.zip		raczo/fence-post.zip
+
+
+

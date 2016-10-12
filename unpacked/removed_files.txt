@@ -1,0 +1,61 @@
+not imported from akimbo:
+
+packages/textures/skymaps/sharp05/sharp05.zip		duplicate of packages/textures/skymaps/sharp/sharp05.zip
+packages/textures/skymaps/egypt1/egypt.zip		duplicate of packages/textures/skymaps/egypt/egypt.zip
+packages/maps/--Gema_JumpRun--.cgz.zip			illegal filename
+packages/maps/=-Temple-=.cgz.zip			illegal filename
+packages/audio/weapon/grenade_bounce1.ogg		not supported for autodownload
+packages/audio/weapon/grenade_bounce2.ogg		not supported for autodownload
+packages/audio/weapon/grenade_exp.ogg			not supported for autodownload
+packages/audio/weapon/grenade_pull.ogg			not supported for autodownload
+packages/audio/weapon/grenade_throw.ogg			not supported for autodownload
+packages/models/mapmodels/cleaner/cactus/cactus1.zip	already in main package
+packages/models/mapmodels/cleaner/cactus/cactus2.zip	already in main package
+mapmodels/cleaner/doors/door001b.zip			already in main package
+mapmodels/cleaner/doors/door001.zip			already in main package
+packages/models/mapmodels/misterfloppy/alarmlamp.zip	already in main package
+packages/models/mapmodels/misterfloppy/streetlamp.zip	already in main package
+packages/models/mapmodels/misterfloppy/platelamp.zip	already in main package
+packages/models/mapmodels/misterfloppy/hanging_ladder/ladder_2.zip	already in main package
+packages/models/mapmodels/misterfloppy/hanging_ladder/ladder_6.zip	already in main package
+packages/models/mapmodels/misterfloppy/hanging_ladder/ladder_low.zip	already in main package
+packages/models/mapmodels/misterfloppy/hanging_ladder/ladder_top.zip	already in main package
+packages/models/mapmodels/misterfloppy/hanging_ladder/ladder_up.zip	already in main package
+packages/textures/skymaps/iceflow/iceflow.zip		already in main package
+packages/textures/yourteddybear/minecraft/*		copyright issues
+packages/textures/exoduss/text45.jpg			duplicate of packages/textures/exoduss/arab2.jpg
+packages/textures/exoduss/text14.jpg			duplicate of packages/textures/exoduss/granite1.jpg
+packages/textures/exoduss/text32.jpg			duplicate of packages/textures/exoduss/granite8.jpg
+packages/textures/exoduss/text22.jpg			duplicate of packages/textures/exoduss/mot190.jpg
+packages/textures/exoduss/text23.jpg			duplicate of packages/textures/exoduss/lol6.jpg
+packages/textures/exoduss/text36.jpg			duplicate of packages/textures/exoduss/granite6.jpg
+packages/textures/exoduss/text30.jpg			duplicate of packages/textures/exoduss/lol4.jpg
+packages/textures/exoduss/text3.jpg			duplicate of packages/textures/exoduss/lol1.jpg
+packages/textures/exoduss/text27.jpg			duplicate of packages/textures/exoduss/lol2.jpg
+packages/textures/exoduss/text2.jpg			duplicate of packages/textures/exoduss/granite4.jpg
+packages/textures/exoduss/stripes.jpg			duplicate of packages/textures/exoduss/granite7.jpg
+packages/textures/exoduss/text21.jpg			duplicate of packages/textures/exoduss/granite7.jpg
+packages/textures/exoduss/text37.jpg			duplicate of packages/textures/exoduss/granite7.jpg
+packages/textures/exoduss/text1.jpg			duplicate of packages/textures/exoduss/granite3.jpg
+packages/textures/exoduss/text17.jpg			duplicate of packages/textures/exoduss/wall.jpg
+packages/textures/exoduss/text38.jpg			duplicate of packages/textures/exoduss/granite5.jpg
+packages/textures/exoduss/text28.jpg			duplicate of packages/textures/exoduss/lol3.jpg
+packages/textures/exoduss/text13.jpg			duplicate of packages/textures/exoduss/aztec3.jpg
+packages/textures/exoduss/wall4.jpg			duplicate of packages/textures/exoduss/text33.jpg
+packages/textures/exoduss/text35.jpg			duplicate of packages/textures/exoduss/granite2.jpg
+packages/textures/exoduss/text4.jpg			duplicate of packages/textures/exoduss/ground3.jpg
+packages/textures/exoduss/text9.jpg			duplicate of packages/textures/exoduss/floor.jpg
+packages/textures/exoduss/text24.jpg			duplicate of packages/textures/exoduss/lol5.jpg
+packages/textures/exoduss/text8.jpg			duplicate of packages/textures/exoduss/wall10.jpg
+packages/textures/exoduss/text15.jpg			duplicate of packages/textures/exoduss/wall7.jpg
+packages/textures/exoduss/text20.jpg			duplicate of packages/textures/exoduss/wall8.jpg
+packages/textures/exoduss/text29.jpg			duplicate of packages/textures/exoduss/ground2.jpg
+packages/textures/exoduss/text10.jpg			duplicate of packages/textures/exoduss/256-01a.jpg
+packages/textures/exoduss/text7.jpg			duplicate of packages/textures/exoduss/wall9.jpg
+packages/textures/exoduss/text19.jpg			duplicate of packages/textures/exoduss/wall6.jpg
+packages/textures/exoduss/text31.jpg			duplicate of packages/textures/exoduss/granite10.jpg
+packages/textures/exoduss/text18.jpg			duplicate of packages/textures/exoduss/wall5.jpg
+
+
+
+
