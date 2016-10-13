@@ -55,7 +55,23 @@ packages/textures/exoduss/text7.jpg			duplicate of packages/textures/exoduss/wal
 packages/textures/exoduss/text19.jpg			duplicate of packages/textures/exoduss/wall6.jpg
 packages/textures/exoduss/text31.jpg			duplicate of packages/textures/exoduss/granite10.jpg
 packages/textures/exoduss/text18.jpg			duplicate of packages/textures/exoduss/wall5.jpg
-
-
+packages/models/mapmodels/shadowfix/boeufmironton/bidon1	duplicate of packages/models/mapmodels/boeufmironton/bidon1     
+packages/models/mapmodels/shadowfix/boeufmironton/bidon2	duplicate of packages/models/mapmodels/boeufmironton/bidon2
+packages/models/mapmodels/shadowfix/boeufmironton/caisse01	duplicate of packages/models/mapmodels/boeufmironton/caisse01
+packages/models/mapmodels/shadowfix/boeufmironton/caisse02	duplicate of packages/models/mapmodels/boeufmironton/caisse02
+packages/models/mapmodels/shadowfix/boeufmironton/carton1	duplicate of packages/models/mapmodels/boeufmironton/carton1
+packages/models/mapmodels/shadowfix/boeufmironton/citerne	duplicate of packages/models/mapmodels/boeufmironton/citerne
+packages/models/mapmodels/shadowfix/boeufmironton/commande1	duplicate of packages/models/mapmodels/boeufmironton/commande1
+packages/models/mapmodels/shadowfix/boeufmironton/elevateur	duplicate of packages/models/mapmodels/boeufmironton/elevateur
+packages/models/mapmodels/shadowfix/boeufmironton/palan1	duplicate of packages/models/mapmodels/boeufmironton/palan1
+packages/models/mapmodels/shadowfix/boeufmironton/palette1	duplicate of packages/models/mapmodels/boeufmironton/palette1
+packages/models/mapmodels/shadowfix/boeufmironton/passerelle	duplicate of packages/models/mapmodels/boeufmironton/passerelle
+packages/models/mapmodels/shadowfix/boeufmironton/portique	duplicate of packages/models/mapmodels/boeufmironton/portique
+packages/models/mapmodels/shadowfix/boeufmironton/poutrelle1	duplicate of packages/models/mapmodels/boeufmironton/poutrelle1
+packages/models/mapmodels/shadowfix/boeufmironton/rail		duplicate of packages/models/mapmodels/boeufmironton/rail
+packages/models/mapmodels/shadowfix/boeufmironton/tuyaux1	duplicate of packages/models/mapmodels/boeufmironton/tuyaux1
+packages/models/mapmodels/shadowfix/boeufmironton/wagon		duplicate of packages/models/mapmodels/boeufmironton/wagon
+packages/models/mapmodels/shadowfix/sr_persian/wagon		duplicate of packages/models/mapmodels/sr_persian/wagon
+packages/models/mapmodels/shadowfix/sr_persian/wagon2		duplicate of packages/models/mapmodels/sr_persian/wagon2
 
 
