@@ -102,23 +102,27 @@ Map models:
 ayers_skull.zip			ayers/skull.zip
 barique.zip			boeufmironton/barique.zip
 barrel6.zip			dcp/barrel6.zip
-bench2.zip			zz_unsorted/bench2.zip
+beerbottle/beerbottle1.zip	zz_unsorted/beerbottle/beerbottle1.zip
+beerbottle/beerbottle2.zip	zz_unsorted/beerbottle/beerbottle2.zip
+bench2.zip			zz_unsorted/bench.zip
 bench.zip			zz_unsorted/bench.zip
 boxtrailer.zip			sitters/boxtrailer.zip
 bridge_incas2.zip		boeufmironton/bridge_incas2.zip
 bridge_incas.zip		boeufmironton/bridge_incas.zip
+bukz/sundial.zip		primevil/sundial.zip
 campbed.zip			zz_unsorted/campbed.zip
 candle.zip			dementium4ever/candle.zip
 car.zip				sitters/car2.zip
-chain.zip			zz_unsorted/chain.zip
+chain.zip			tentus/chains/chain.zip
 coffin.zip			zz_unsorted/coffin.zip
 container.zip			cleaner/container.zip
 crate.zip			psionic/crate.zip
-curvechain.zip			zz_unsorted/curvechain.zip
+curvechain.zip			tentus/chains/curvechain.zip
 dcp_candle.zip			dcp/candle.zip
 digicode.zip			cleaner/digicode.zip
 elecbox.zip			acord/elecbox.zip
 europalette2.zip		zz_unsorted/europalette2.zip
+geartrooper/warning_light.zip	cleaner/warning_light.zip
 goal.zip			sniper/goal.zip
 goblet.zip			zz_unsorted/goblet.zip
 grass.zip			dcp/grass.zip
@@ -131,7 +135,9 @@ heli.zip			sitters/heli.zip
 hotel_sign.zip			sr_persian/hotel_sign.zip
 jeep.zip			sitters/jeep.zip
 kt_kubalwagon.zip		kenbeyer/kt_kubalwagon.zip
-leafs.zip			zz_unsorted/leafs.zip
+leafs.zip			dcp/leafs.zip
+makke/med_chand.zip		dcp/chandelier.zip
+makke/signs/exit.zip		signs/exit2.zip
 money.zip			sunnyd/money.zip
 oldchair.zip			sr_persian/oldchair.zip
 old_table.zip			sr_persian/old_table.zip
@@ -139,18 +145,22 @@ old_wagon.zip			sr_persian/old_wagon.zip
 paquet.zip			deathstar/paquet.zip
 piano.zip			zz_unsorted/piano.zip
 picture2.zip			zz_unsorted/picture2.zip
-plant1.zip			zz_unsorted/plant1.zip
+plant1.zip			dcp/plant1.zip
 red_cross_jeep.zip		cleaner/red_cross_jeep.zip
 rope.zip			zz_unsorted/rope.zip
 skintrolpc.zip			zz_unsorted/skintrolpc.zip
-smplant.zip			zz_unsorted/smplant.zip
+smplant.zip			dcp/smplant.zip
 soleil2.zip			boeufmironton/soleil2.zip
 soleil.zip			boeufmironton/soleil.zip
 stairs.zip			zz_unsorted/stairs.zip
 statue.zip			deathstar/statue.zip
 tankwall.zip			sitters/tankwall.zip
-treppe.zip			zz_unsorted/treppe.zip
+ton/down.zip			zz_unsorted/ton/down.zip
+ton/up.zip			zz_unsorted/ton/up.zip
+tree_models/mushroom.zip	dcp/mushroom.zip
+treppe.zip			sr_persian/treppe2.zip
 vent.zip			dcp/vent.zip
+victorian/oldclock.zip		cleaner/victorian/oldclock.zip
 wagon.zip			sitters/wagon.zip
 warning_light.zip		geartrooper/warning_light.zip
 cleaner/docking ring.zip		cleaner/docking_ring.zip
@@ -165,7 +175,6 @@ cleaner/planks/plank(hor).zip		cleaner/planks/plank_hor.zip
 thekid/skateboard.zip		TheKid/skateboard.zip
 Raczo/fence1.zip		raczo/fence1.zip
 Raczo/fence-post.zip		raczo/fence-post.zip
-
 
 Textures:
 

@@ -88,4 +88,6 @@ packages/models/mapmodels/pink/lights/minelamp			duplicate of packages/models/ma
 packages/models/mapmodels/ton					duplicate of packages/models/mapmodels/ton/up
 packages/models/mapmodels/cleaner/gutter_h			duplicate of packages/models/mapmodels/cleaner/grates/grate_hor
 packages/models/mapmodels/cleaner/gutter_v			duplicate of packages/models/mapmodels/cleaner/grates/grate_vert
+packages/models/mapmodels/makkes/vase				duplicate of packages/models/mapmodels/dcp/vases/vase
+packages/models/mapmodels/models/warning_light			duplicate of packages/models/mapmodels/cleaner/warning_light
 
