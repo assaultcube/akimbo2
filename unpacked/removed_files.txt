@@ -55,6 +55,12 @@ packages/textures/exoduss/text7.jpg			duplicate of packages/textures/exoduss/wal
 packages/textures/exoduss/text19.jpg			duplicate of packages/textures/exoduss/wall6.jpg
 packages/textures/exoduss/text31.jpg			duplicate of packages/textures/exoduss/granite10.jpg
 packages/textures/exoduss/text18.jpg			duplicate of packages/textures/exoduss/wall5.jpg
+packages/textures/cleaner/ikbase/ik_floor_conc128a.jpg	duplicate of packages/textures/cube/ikbase/ik_floor_conc128a.jpg
+packages/textures/exoduss/floor.jpg			duplicate of packages/textures/cube/ikbase/ik_floor_conc128a.jpg
+packages/textures/bukz/door1.jpg			duplicate of packages/textures/3dcafe/door10_a.jpg
+packages/textures/bukz/door2.jpg			duplicate of packages/textures/3dcafe/door07_a.jpg
+packages/textures/exoduss/text6.jpg			duplicate of packages/textures/cube/dg/muv158.jpg
+packages/textures/exoduss/mot190.jpg			duplicate of packages/textures/cleaner/dg/mot190.jpg
 packages/models/mapmodels/shadowfix/boeufmironton/bidon1	duplicate of packages/models/mapmodels/boeufmironton/bidon1     
 packages/models/mapmodels/shadowfix/boeufmironton/bidon2	duplicate of packages/models/mapmodels/boeufmironton/bidon2
 packages/models/mapmodels/shadowfix/boeufmironton/caisse01	duplicate of packages/models/mapmodels/boeufmironton/caisse01
@@ -73,5 +79,13 @@ packages/models/mapmodels/shadowfix/boeufmironton/tuyaux1	duplicate of packages/
 packages/models/mapmodels/shadowfix/boeufmironton/wagon		duplicate of packages/models/mapmodels/boeufmironton/wagon
 packages/models/mapmodels/shadowfix/sr_persian/wagon		duplicate of packages/models/mapmodels/sr_persian/wagon
 packages/models/mapmodels/shadowfix/sr_persian/wagon2		duplicate of packages/models/mapmodels/sr_persian/wagon2
-
+packages/models/mapmodels/ice/ventflap				duplicate of packages/models/mapmodels/jcdpc/ventflap
+packages/models/mapmodels/pink/lights/ovallamp			duplicate of packages/models/mapmodels/misterfloppy/ovallamp
+packages/models/mapmodels/halfdoor				duplicate of packages/models/mapmodels/dcp/halfdoor
+packages/models/mapmodels/fantomas/barsign			duplicate of packages/models/mapmodels/fantomas.ua/bar_sign
+packages/models/mapmodels/pink/lights/hanginlamp		duplicate of packages/models/mapmodels/jcdpc/hanginglamp
+packages/models/mapmodels/pink/lights/minelamp			duplicate of packages/models/mapmodels/misterfloppy/minelamp
+packages/models/mapmodels/ton					duplicate of packages/models/mapmodels/ton/up
+packages/models/mapmodels/cleaner/gutter_h			duplicate of packages/models/mapmodels/cleaner/grates/grate_hor
+packages/models/mapmodels/cleaner/gutter_v			duplicate of packages/models/mapmodels/cleaner/grates/grate_vert
 

@@ -126,7 +126,6 @@ gravure01.zip			boeufmironton/gravure01.zip
 gravure02.zip			boeufmironton/gravure02.zip
 gutter_h.zip			cleaner/gutter_h.zip
 gutter_v.zip			cleaner/gutter_v.zip
-halfdoor.zip			zz_unsorted/halfdoor.zip
 helicopter.zip			dementium4ever/helicopter.zip
 heli.zip			sitters/heli.zip
 hotel_sign.zip			sr_persian/hotel_sign.zip
@@ -150,7 +149,6 @@ soleil.zip			boeufmironton/soleil.zip
 stairs.zip			zz_unsorted/stairs.zip
 statue.zip			deathstar/statue.zip
 tankwall.zip			sitters/tankwall.zip
-ton.zip				zz_unsorted/ton.zip
 treppe.zip			zz_unsorted/treppe.zip
 vent.zip			dcp/vent.zip
 wagon.zip			sitters/wagon.zip
