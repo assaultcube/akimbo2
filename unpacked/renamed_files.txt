@@ -110,7 +110,7 @@ boxtrailer.zip			sitters/boxtrailer.zip
 bridge_incas2.zip		boeufmironton/bridge_incas2.zip
 bridge_incas.zip		boeufmironton/bridge_incas.zip
 bukz/sundial.zip		primevil/sundial.zip
-campbed.zip			zz_unsorted/campbed.zip
+campbed.zip			sitters/campbed.zip
 candle.zip			dementium4ever/candle.zip
 car.zip				sitters/car2.zip
 chain.zip			tentus/chains/chain.zip
@@ -121,7 +121,6 @@ curvechain.zip			tentus/chains/curvechain.zip
 dcp_candle.zip			dcp/candle.zip
 digicode.zip			cleaner/digicode.zip
 elecbox.zip			acord/elecbox.zip
-europalette2.zip		zz_unsorted/europalette2.zip
 geartrooper/warning_light.zip	cleaner/warning_light.zip
 goal.zip			sniper/goal.zip
 goblet.zip			zz_unsorted/goblet.zip
@@ -148,15 +147,15 @@ picture2.zip			zz_unsorted/picture2.zip
 plant1.zip			dcp/plant1.zip
 red_cross_jeep.zip		cleaner/red_cross_jeep.zip
 rope.zip			zz_unsorted/rope.zip
-skintrolpc.zip			zz_unsorted/skintrolpc.zip
+skintrolpc.zip			zz_unsorted/trolpc.zip
 smplant.zip			dcp/smplant.zip
 soleil2.zip			boeufmironton/soleil2.zip
 soleil.zip			boeufmironton/soleil.zip
 stairs.zip			zz_unsorted/stairs.zip
 statue.zip			deathstar/statue.zip
 tankwall.zip			sitters/tankwall.zip
-ton/down.zip			zz_unsorted/ton/down.zip
-ton/up.zip			zz_unsorted/ton/up.zip
+ton/down.zip			sitters/ton/down.zip
+ton/up.zip			sitters/ton/up.zip
 tree_models/mushroom.zip	dcp/mushroom.zip
 treppe.zip			sr_persian/treppe2.zip
 vent.zip			dcp/vent.zip
@@ -175,6 +174,16 @@ cleaner/planks/plank(hor).zip		cleaner/planks/plank_hor.zip
 thekid/skateboard.zip		TheKid/skateboard.zip
 Raczo/fence1.zip		raczo/fence1.zip
 Raczo/fence-post.zip		raczo/fence-post.zip
+pink/lights/light1.zip		sitters/light1.zip
+pink/lights/light2.zip		sitters/light2.zip
+pink/lights/light3.zip		sitters/light3.zip
+pink/lights/light4.zip		sitters/light4.zip
+pink/lights/light5.zip		sitters/light5.zip
+pink/indust/pallette.zip	sitters/pallette.zip
+cleaner/exting.zip		sitters/exting.zip
+ice/barrel_ice.zip		deathstar/barrel_ice.zip
+ice/tree_snow.zip		deathstar/tree_snow.zip
+
 
 Textures:
 
@@ -760,4 +769,22 @@ exoduss/text42.jpg			cube/payne/SlimyTile02_128x128.jpg
 exoduss/text43.jpg			cube/ik2k/ik_floor_tile128b.jpg
 exoduss/text44.jpg			cube/schwenz/dt_tile_check.01.jpg
 exoduss/text5.jpg			cube/dg/mur079.jpg
+cleaner/dg/mot067.jpg			cube/dg/mot067.jpg
+cleaner/dg/mot190.jpg			cube/dg/mot190.jpg
+cleaner/dg/mur013.jpg			cube/dg/mur013.jpg
+cleaner/dg/muv204.jpg			cube/dg/muv204.jpg
+cleaner/dust/256_iv_floor01.jpg		cube/rorschach/256_iv_floor01.jpg
+cleaner/g-pack/g-floor01.jpg		cube/g-pack/g-floor01.jpg
+cleaner/lunaran/hexflr1_d.jpg		cube/lunaran/hexflr1_d.jpg
+exoduss/lol4.jpg			cube/egyptsoc/032-01a.jpg
+exoduss/lol1.jpg			cube/dg/sue011.jpg
+exoduss/lol2.jpg			cube/dg/floor_pavement_stone5_2.jpg
+exoduss/lol3.jpg			cube/egyptsoc/032-04a.jpg
+ice/brick.jpg				cube/aftas/par10_a.jpg
+ice/brick2.jpg				cube/aftas/par10_c.jpg
+ice/ceiling.jpg				cube/evil_textures/e7bricks01.jpg
+ice/door.jpg				cube/mitaman/mm-metalpanel-b.jpg
+ice/tile.jpg				cube/payne/SlimyTile02_128x128.jpg
+ice/wall.jpg				cube/evil_textures/e7walldesign01b.jpg
+
 

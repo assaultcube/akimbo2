@@ -7,3 +7,5 @@ Respect the model license (see readme...)
 Conceptual idea to use it as mapmodel Statue By Deathstar (20 april 2009) 
 //////////////////////////////////////////////////////////////////////////
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+skin.jpg is packages/textures/noctua/metal/copper01.jpg
